@@ -1,6 +1,6 @@
-## Change photo name by photo time and vice versa.
+## Change photo name by time and vice versa.
 
-This Python script allows you to change the names of photos based on their time and vice versa.
+This Python script allows you to change the name of photo based on time and vice versa.
 
 ### Usage:
 ```
@@ -13,4 +13,3 @@ python main.py
 - PNG
 - DNG
 - ARW
-- MP4
