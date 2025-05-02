@@ -1,7 +1,7 @@
 import os, time, piexif, re
 import re
 from PIL import Image
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 import subprocess
 import json
 # ------------------------------------------------------------------

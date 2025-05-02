@@ -17,7 +17,7 @@ valid_formats = {
     'ARW': ('RAW', 'ARW'),
     'MP4': ('VID', 'mp4')
 }
-folder = r'G:\ALBUM\temp'
+folder = r"/Users/kiin/Downloads/temp"
 
 
 # ------------------------------------------------------------------
